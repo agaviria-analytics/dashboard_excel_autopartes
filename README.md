@@ -103,10 +103,9 @@ Durante el proyecto, se usó una técnica eficiente para cargar los datos:
 
 ## 📁 Capturas del Proyecto
 
-Incluye:
-
-- Dashboard final (Dashboard.PNG)
-- Modelo de datos en Power Pivot (Modelo estrella.PNG)
+### 📊 Capturas del Proyecto
+![Dashboard de Ventas](img/Dashboard.PNG)
+![Modelo Estrella en Power Pivot](img/Modeloestrella.PNG)
 
 ---
 
